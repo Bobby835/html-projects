@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+<header>
+    <h1>Event Hub</h1>
+    <nav>
+        <ul>
+<li><a href="#upcoming-events">Upcoming Events</li></a>
+<li><a href="#past-events">Past Events</li></a>
+        </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="upcoming-events">
+            <h2>Upcoming Events</h2>
+            <article>
+                <h3>Halloween Event</h3>
+                <p>October 30th</p>
+                </article>
+                <article>
+                <h3>Christmas Event</h3>
+                <p>December 30th</p>
+                </article>
+            </section>
+        <section id="past-events">
+            <h2>Past Events</h2>
+            <article>
+                <h3>Finance Event</h3>
+                <p>June 30th</p>
+                <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event1.jpg" alt="Labs">
+                </article>
+                <article>
+                <h3>Retirement Event</h3>
+                <p>January 1st</p>
+                <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event2.jpg" alt="Labs">
+                </article>
+        </section>
+
+    </main>
+<body>
+
+</body>
+
+</html>
